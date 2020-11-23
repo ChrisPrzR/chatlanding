@@ -11,9 +11,11 @@
 @media screen and (max-width: 720px){
     .container{
         flex-direction: column;
+        height: 100%;
     }
     .left-container{
         margin: 0 auto;
+        margin-top: 10%;
         width: 40%;
     }
     .right-container{
@@ -30,12 +32,12 @@
 @media screen and (max-width: 530px){
     .container{
         flex-direction: column;
-        height: auto;
+        height: 100%;
     }
     .left-container{
         margin: 0 auto;
+        margin-top: 10%;
         width: 70%;
-        max-height: 70%;
     }
     .right-container{
         width: 100%;
