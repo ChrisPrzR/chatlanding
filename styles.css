@@ -35,7 +35,7 @@ body{
 
 
 .figure1{
-    position: absolute;
+    position: fixed;
     left: -60px;
     height: 90vh;
     width: 30vw;
@@ -47,7 +47,7 @@ body{
 }
 
 .figure2{
-    position: absolute;
+    position: fixed;
     bottom: 0;
     right: -60px;
     height: 90vh;

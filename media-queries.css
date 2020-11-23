@@ -34,12 +34,17 @@
     .left-container{
         margin: 0 auto;
         width: 70%;
+        max-height: 70%;
     }
     .right-container{
         width: 100%;
-        margin: 0 auto;
-        margin-top: 20px;
+        height: 25%;
+        margin: 10% 25% 0 25%;
         text-align: cover;
+    }
+
+    .right-container .main-text{
+        width: 80%;
     }
     .figure1, .figure2 {
         height: 50vh;
